@@ -9,15 +9,28 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@xmldom/xmldom": "^0.9.8",
+    "axios": "^1.6.7",
+    "docx": "^9.4.1",
+    "docxtemplater": "^3.61.1",
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.1",
+    "markmap-common": "^0.18.0",
+    "markmap-lib": "^0.18.11",
+    "markmap-render": "^0.18.10",
+    "markmap-toolbar": "^0.18.0",
+    "markmap-view": "^0.18.10",
+    "next": "15.3.1",
+    "pdf-parse": "^1.1.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.3.1"
+    "react-dropzone": "^14.2.3"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.3.1",
-    "@eslint/eslintrc": "^3"
+    "tailwindcss": "^4"
   }
 }

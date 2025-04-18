@@ -1,5 +1,6 @@
 # 智能思维导图 (Smart Markmap)
 
+**极简、强大的AI思维导图利器**
 
 ## 项目简介
 
@@ -22,6 +23,12 @@
 - **交互式思维导图**：支持缩放、拖拽、展开/折叠节点
 - **多种导出选项**：支持导出为 HTML 或 Markdown 格式
 - **自定义 API 设置**：可配置 API 密钥和端点
+
+## 网站截图
+![PixPin_2025-04-18_17-33-34](https://github.com/user-attachments/assets/66112159-b5c4-4005-aadb-c5cf1a419e20)
+
+![PixPin_2025-04-18_17-33-50](https://github.com/user-attachments/assets/71cbf5fe-64d9-4f51-a003-7c0372803e0c)
+
 
 ## 快速开始
 

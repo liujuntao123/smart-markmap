@@ -48,7 +48,7 @@ npm run dev
 - **前端框架**：Next.js 15.3.1 + React 19
 - **UI设计**：TailwindCSS 4 + 自定义组件
 - **可视化引擎**：Markmap系列库
-- **文档处理**：React-Dropzone, DOCX, PDF-parse等
+- **文档处理**：React-Dropzone, DOCX等
 - **网络通信**：Axios
 ## 部署方案
 推荐使用Vercel一键部署：
